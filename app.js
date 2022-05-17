@@ -1,1 +1,1 @@
-document.write('Valentin!');
+console.log('Hello!');
